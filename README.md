@@ -3,10 +3,10 @@
 ℹ️ My first python project, don't judge it too harshly.
 
 📃 Supported features:
-• Uppercase
-• Lowercase
-• Numbers
-• Symbols
+- Uppercase
+- Lowercase
+- Numbers
+- Symbols
 
 ⠀
 ⠀
